@@ -24,3 +24,8 @@ Instead of dumping 500 lines of code into a single `main` method, I wanted to pr
 
 * **Language:** Java 
 * **Core Libraries:** `java.nio.file`, `java.util.Scanner`,`java.io`
+
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
